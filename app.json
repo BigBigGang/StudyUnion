@@ -12,7 +12,7 @@
   ],
   "window": {
     "navigationBarTextStyle": "#ffffff",
-    "navigationBarTitleText": "零食商贩",
+    "navigationBarTitleText": "优学联盟",
     "navigationBarBackgroundColor": "#AB956D",
     "backgroundColor": "#eeeeee",
     "enablePullDownRefresh": true
@@ -36,7 +36,7 @@
       "pagePath": "page/component/cart/cart",
       "iconPath": "image/32.png",
       "selectedIconPath": "image/31.png",
-      "text": "购物车"
+      "text": "合作伙伴"
     }, {
       "pagePath": "page/component/user/user",
       "iconPath": "image/42.png",
